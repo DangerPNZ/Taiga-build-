@@ -1,0 +1,1 @@
+"use strict";$(".interactive-tv__power-btn").on("click",function(t){t.preventDefault(),$(".interactive-tv").toggleClass("interactive-tv--on")});

@@ -1,0 +1,1 @@
+"use strict";window.global={defineClientXObject:function(e,o){var n;return"desktop"===e?n=o.clientX:"mobile"===e&&(n=o.changedTouches[0].clientX),n},defineEventTypes:function(e,o){var n;return"desktop"===e&&"move"===o?n="mousemove":"desktop"===e&&"dragend"===o?n="mouseup":"mobile"===e&&"move"===o?n="touchmove":"mobile"===e&&"dragend"===o&&(n="touchend"),n}};
