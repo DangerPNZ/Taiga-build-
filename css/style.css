@@ -531,10 +531,10 @@ img {
     font-family: "DINPro-Black", "Arial", sans-serif;
     font-size: 2vw;
     text-transform: uppercase; }
-  .article-item__article-heading .article-item__gradient {
+  .article-item__article-heading .article-item__header-gradient {
     transform: translateY(2vw); }
-  .article-item__article-heading .article-item__shadow {
-    transform: translateX(0.15vw) translateY(2.2vw); }
+  .article-item__article-heading .article-item__header-shadow {
+    transform: translateY(2.2vw); }
 
 .article-item__header {
   text-align: center; }
@@ -1136,10 +1136,10 @@ img {
     height: 5.7vw; }
   .article-item__article-heading text {
     font-size: 5vw; }
-  .article-item__article-heading .article-item__gradient {
-    transform: translateX(0.11vw) translateY(4.6vw); }
-  .article-item__article-heading .article-item__shadow {
-    transform: translateX(0.15vw) translateY(5.2vw); }
+  .article-item__article-heading .article-item__header-gradient {
+    transform: translateY(4.6vw); }
+  .article-item__article-heading .article-item__header-shadow {
+    transform: translateY(5.2vw); }
   .article-item__article-additional-heading {
     font-size: 3.3vw; }
   .article-item__link-container {
